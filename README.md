@@ -1,7 +1,7 @@
 # Tarjimon_UZ-RU_RU-UZ
 O'zbek tilidan Rus tiliga hamda teskarisiga, gapning manosini buzmasdan offlayn tarjima qilish loyiham.  
 
-# 🌐 NLLB-200 Tarjimon (O‘zbek ↔ Rus)
+# NLLB-200 Tarjimon (O‘zbek ↔ Rus)
 
 Ushbu loyiha Meta AI tomonidan yaratilgan **NLLB-200 (No Language Left Behind)** modelidan foydalanib matnlarni avtomatik tarjima qiladi.
 Loyiha o‘zbek tilidan rus tiliga hamda aksincha tarjima qiluvchi kichik terminal dasturi shaklida yozilgan.
