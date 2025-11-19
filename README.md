@@ -62,5 +62,4 @@ NLLB-200 Model
 SentencePiece Tokenizer
 
 Muallif
-
-Siz - Sardorbek Sultonov
+Sardorbek Sultonov
