@@ -17,7 +17,6 @@ while True:
     tokenizer.src_lang = "uzn_Latn"
     inputs = tokenizer(text, return_tensors="pt")
 
-    # MUHIM O'ZGARISH: forced_bos_token_id
     bos_id = tokenizer.convert_tokens_to_ids("rus_Cyrl")
 
     output = model.generate(
@@ -28,3 +27,4 @@ while True:
     translation = tokenizer.decode(output[0], skip_special_tokens=True)
     print("🔹 Tarjima:", translation)
     print("-" * 40)
+
